@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s2prototype", "s2prototype\s2prototype.csproj", "{5E2B7BF4-6F4C-4DCC-93A8-DAA31AF01848}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s2prototype", "s2prototype\s2prototype.csproj", "{12699D1A-1957-4392-8B4D-C34DC396ADC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5E2B7BF4-6F4C-4DCC-93A8-DAA31AF01848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5E2B7BF4-6F4C-4DCC-93A8-DAA31AF01848}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5E2B7BF4-6F4C-4DCC-93A8-DAA31AF01848}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5E2B7BF4-6F4C-4DCC-93A8-DAA31AF01848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12699D1A-1957-4392-8B4D-C34DC396ADC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12699D1A-1957-4392-8B4D-C34DC396ADC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12699D1A-1957-4392-8B4D-C34DC396ADC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12699D1A-1957-4392-8B4D-C34DC396ADC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCB4B7C5-850C-469A-890B-2714049946CE}
 	EndGlobalSection
 EndGlobal
